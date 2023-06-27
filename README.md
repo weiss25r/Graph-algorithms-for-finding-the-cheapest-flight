@@ -6,4 +6,4 @@ Laboratorio di Algoritmi A.A 2022/2023 - Prof.ssa Sciortino
 
 Team: Andrea Spinelli, Marco Valenti, Raffaele Terracino
 
-![algoritmi](https://github.com/ArgonautAstra/Progetto-Lab.-Algoritmi/assets/78497325/0a512464-5323-41fb-a8af-aeaa2ececdaa)
+[Lab. Algoritmi - Traccia.pdf](https://github.com/weiss25r/Progetto-Lab.-Algoritmi-2023/files/11878412/Lab.Algoritmi.-.Traccia.pdf)
