@@ -1,4 +1,4 @@
-# Graph algorithms for finding the Cheapest Flight
+# Graph algorithms for finding the cheapest flight
 
 Project done for the "Algorithms laboratory" course, Bachelor Degree in Computer Science at University of Palermo.
 Team: Andrea Spinelli, Marco Valenti, Raffaele Terracino
