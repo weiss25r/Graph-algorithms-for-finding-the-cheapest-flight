@@ -24,11 +24,11 @@ would take Mario from Palermo to New York with no more than a certain number of 
 ## Input
 The first line of the input contains a single number indicating the number of scenarios to be processed.
 A blank line precedes each scenario.
-Each scenario begins with a number $N\geq2$, the number of cities, followed by $N$ lines containing the names of the cities.
+Each scenario begins with a number $N \ge 2$, the number of cities, followed by $N$ lines containing the names of the cities.
 A city name is a string of uppercase and lowercase letters.
-Next, a number $M\get0$, the number of available flights, is provided, followed by M rows describing the flights.
+Next, a number $M \geq 0$, the number of available flights, is provided, followed by M rows describing the flights.
 Each flight is described by the departure city, the destination city, and an integer representing the cost in euros.
-The last row begins with $Q\get1$ the number of queries, followed by 𝑄 numbers indicating the maximum number of stopovers.
+The last row begins with $Q \geq 1$ the number of queries, followed by 𝑄 numbers indicating the maximum number of stopovers.
 
 ## Ouput
 For each scenario, your program should return the scenario number, followed by the minimum total cost of flights
